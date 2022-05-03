@@ -1,0 +1,22 @@
+<bug_report>
+  <data>02.03.2022</data>
+  <bug_number>bug #3</bug_number>			
+  <Project>Testing Aliexpress</Project>					
+  <issue type>bug</issue type>			
+  <Summary>:"Корзина":"при удалении товара  количество товаров на кнопке": "корзина", "не меняется"</Summary>			
+	<Descripton>:	
+    <STR>			
+      <1>Зайти в корзину с выбранным товаром</1>			
+      <2>Удалить его из корзины</2>			
+      <3>Обратить внимание на кнопку "Корзина"</3>
+    </STR>			
+	</Description>	
+  <Result>"Корзина":при удалении товара  количество товаров на кнопке"корзина"  не меняется</Result>			
+  <Expected result>При удалении товара из корзины,на кнопке "корзина" число добавленных товаров так же меняется на "0"</Expected result>					
+  <Reporter>"Vladislav Dunin"</Reporter>			
+  <Priority>low</Priority>			
+  <Severity>low</Severity>			
+  <Attachment>My screenshot with bug</Attachment>  					
+  <Linked issues></Linked issues>			
+  <Relates to></Relates to> 			
+  <Sprint>На котором необходимо пофиксить этот баг</Sprint>		
