@@ -1,7 +1,7 @@
 <information>
 	<full_name > Vladislav Dunin</full name>
 	<age> 25 </age>
-	<pets> 1 cat </age>
+	<pets> 1 cat </pets>
 	<desired_salary>500$ for junior position</desired_salary>
 </information>
 
